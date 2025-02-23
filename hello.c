@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-		printf("ee");
+		printf("Hello~I AM THE STORM THAT IS APPROACHINNNNNNNNNNNNNNNNNNNNNNG");
 		return 0;
 }
 
